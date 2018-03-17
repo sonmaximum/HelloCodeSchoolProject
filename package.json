@@ -12,5 +12,11 @@
     "chai": "^3.5.0",
     "jsdom": "^9.2.1",
     "mocha": "^2.5.3"
+  },
+  "dependencies": {
+    "@segment/to-iso-string": "^1.0.1",
+    "minimatch": "^3.0.2",
+    "pug": "^2.0.1",
+    "segment": "^0.1.3"
   }
 }
